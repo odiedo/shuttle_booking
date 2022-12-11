@@ -3,11 +3,6 @@
     <title>Eldoret Shuttle</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-    <!-- to be deleted -->
-    <link href="../../hostels/hostel/css/sb-admin-2.min.css" rel="stylesheet">
-    <link href="../../hostels/hostel/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="../../hostels/hostel/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-
     <!-- External CSS libraries -->
     <link type="text/css" rel="stylesheet" href="sec/assets/css/bootstrap.min.css">
 
